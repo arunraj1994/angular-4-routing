@@ -1,0 +1,70 @@
+.wrapper{
+	margin: 0 auto;
+	min-height: 550px;
+	width: 1000px;
+	/*border: 1px solid black;*/
+	background-color:  #e6f7ff; 
+}
+
+.service-name{
+	min-height: 500px;
+	width: 320px;
+	border-right:1px solid #005780;
+	color: #006999;
+	float: left;
+}
+.status{
+	min-height: 500px;
+	width: 320px;
+	border-right: 1px solid #005780;
+	color: #006999;
+	float: left;
+}
+nav{
+	float: left;
+	width: 1000px;
+	min-height: 50px;
+	background-color: #b3e6ff;
+}
+li{
+list-style: none;
+}
+.navigation{
+	float: left;
+	padding: 10px 10px 10px 200px;
+	font-size: 20px;
+}
+a{
+	text-decoration: none;
+	color: #ff944d;
+	font-weight: bold;
+}
+h1{
+	text-align: center;
+}
+.service-list{
+	text-align: center;
+}
+.service-list li{
+	padding: 38px 10px 10px 0px;
+	font-weight: bold;
+	font-size: 16px;
+}
+.ok-sign{
+	font-size: 25px;
+	color:green;
+}
+.remove-sign{
+	font-size: 25px;
+	color: red;
+}
+.status-list{
+	padding: 0px;
+	text-align: center;
+}
+.status-list li{
+padding: 30px 10px 10px 0px;
+}
+.status-list li span{
+	padding: 0px 0px 0px 10px;
+}
